@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [How it Works?](how-it-works.md)
+* [First Class](how-it-works.md)
+* [Second Class](second-class.md)
 
