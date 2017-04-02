@@ -8,4 +8,5 @@
 * [Fourth Class](b124-bc88-c9f8-c218-c5c5.md)
 * [Fifth Class](fifth-class.md)
 * [6th Class](6th-class.md)
+* [Homework \_369 Game](homework-369-game.md)
 
