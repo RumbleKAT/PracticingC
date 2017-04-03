@@ -9,4 +9,5 @@
 * [Fifth Class](fifth-class.md)
 * [6th Class](6th-class.md)
 * [Homework \_369 Game](homework-369-game.md)
+* [7th Class](7th-class.md)
 
