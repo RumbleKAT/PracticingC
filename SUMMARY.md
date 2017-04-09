@@ -11,4 +11,5 @@
 * [Homework \_369 Game](homework-369-game.md)
 * [7th Class](7th-class.md)
 * [8th](8th.md)
+* [Midterm study](midterm-study.md)
 
