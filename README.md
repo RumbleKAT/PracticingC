@@ -40,5 +40,11 @@ c언어에서 반복문과 조건문을 이용한 369게임을 만드는 과정�
 
 # [Midterm Study](#midterm-study)
 
+작년 기출문제를 중심으로 한 문제 풀이입니다.
+
+# [9thOpenframeworks](#9thopenframeworks)
+
+오픈 프레임웍스를 이용한 기초를 공부합니다.
+
 
 
