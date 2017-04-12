@@ -13,4 +13,5 @@
 * [8th](8th.md)
 * [Midterm study](midterm-study.md)
 * [9th Openframeworks](9th-openframeworks.md)
+* [10th class](10th-class.md)
 
