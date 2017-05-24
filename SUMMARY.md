@@ -20,4 +20,6 @@
 * [14th Class](14th-class.md)
 * [15th Class](15th-class.md)
 * [16th Class](16th-class.md)
+* [17th Class](17th-class.md)
+* [18th Class](18th-class.md)
 
